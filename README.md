@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a final year Software Engineer student at McMaster University. I love technology and I like to keep learning new things. I have experience in Full-stack MERN development, iOS Development and Java/Python development through personal and academic projects.
+I am a recent Software Engineer graduate from McMaster University. I love technology and I like to keep learning new things. I have experience in Full-stack MERN development, iOS Development and Java/Python development through personal and academic projects.
 
 *   🌍  I'm based in Toronto, ON
 *   ✉️  You can contact me at [hargunbedi463@gmail.com](mailto:hargunbedi463@gmail.com)
