@@ -8,7 +8,6 @@ I am a recent Software Engineer graduate from McMaster University. I love techno
 
 *   🌍  I'm based in Toronto, ON
 *   ✉️  You can contact me at [hargunbedi463@gmail.com](mailto:hargunbedi463@gmail.com)
-*   🚀  I'm currently working on [Board Gamers](http://github.com/Dorps/aiboardgame)
 
 Skills 
 -----------------
